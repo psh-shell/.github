@@ -1,1 +1,3 @@
-`git clone https://github.com/homebrew-ec-foss/psh`
+```
+git clone https://github.com/homebrew-ec-foss/psh
+```
